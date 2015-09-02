@@ -1,4 +1,8 @@
 @media screen and (min-width: 35.5em) {
+	.hide-sm{
+		display: none;
+	}
+
 	.offset-sm-1-2 {
 	margin-left: 50%;
 	}
@@ -109,6 +113,11 @@
 	*margin-left: 95.825%; }
 }
 @media screen and (min-width: 48em) {
+
+	.hide-md{
+		display: none;
+	}
+
 	.offset-md-1-2 {
 	margin-left: 50%;
 	}
@@ -219,6 +228,11 @@
 	*margin-left: 95.825%; }
 }
 @media screen and (min-width: 64em) {
+
+	.hide-lg{
+		display: none;
+	}
+
 	.offset-lg-1-2 {
 	margin-left: 50%;
 	}
@@ -329,6 +343,11 @@
 	*margin-left: 95.825%; }
 }
 @media screen and (min-width: 80em) {
+
+	.hide-xl{
+		display: none;
+	}
+
 	.offset-xl-1-2 {
 	margin-left: 50%;
 	}
